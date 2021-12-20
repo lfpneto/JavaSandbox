@@ -7,7 +7,8 @@ A sandbox for my Java learning exercises
 
 Composite Pattern Notes:
 
-Add a personID atribute to person
+Add a personID atribute to person´??? 
+Leafless composite patern 
 
 
 Sources:
